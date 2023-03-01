@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Júlia Stella</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate full stack developer from Brasil</h3>
 
 - 🔭 I’m currently working on [Introducao_ao_ReactJS](https://github.com/JuliaStella/Introducao_ao_ReactJS)
 
