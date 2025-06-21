@@ -87,24 +87,47 @@
 
 ## 🗃️ Repositórios como Dungeons
 
-- 🏦 **[Senac_back](https://github.com/JuliaStella/Senac_back)**  
-  Missão: Estruturar banco e lógica com POO
+Cada projeto é uma fase diferente, com seus próprios inimigos e tesouros!
 
-- 🪟 **[janelas_em_python](https://github.com/JuliaStella/janelas_em_python)**  
-  Missão: Dominar janelas gráficas e eventos com Tkinter
+<details>
+<summary><b>🍄 WORLD 1-1: Senac_back</b></summary>
+<br>
+  
+- **🪙 Moedas Coletadas:** `9.000`
+- **🐢 Inimigos Derrotados:** Goombas da Lógica POO, Koopas do Gerenciamento de Banco de Dados.
+- **🏰 Castelo:** [Ver Repositório](https://github.com/JuliaStella/Senac_back)
+  
+<br>
+</details>
 
-- 🚧 **Missões secretas em produção**  
-  ⚠️ Acesso restrito a Devs Nível 25+
+<details>
+<summary><b>🔥 WORLD 1-2: janelas_em_python</b></summary>
+<br>
+
+- **🪙 Moedas Coletadas:** `6.500`
+- **🐢 Inimigos Derrotados:** Piranha Plants de Tkinter, Bullet Bills de Gerenciamento de Eventos.
+- **🏰 Castelo:** [Ver Repositório](https://github.com/JuliaStella/janelas_em_python)
+
+<br>
+</details>
+
+<details>
+<summary><b>❓ WORLD SECRETO: Missões em Produção</b></summary>
+<br>
+  
+- **🪙 Moedas Coletadas:** `???`
+- **🐢 Inimigos Derrotados:** Chefão Bowser (NDA).
+- **🏰 Castelo:** Acesso restrito! Warp Zone disponível apenas para Devs Nv. 25+.
+  
+<br>
+</details>
 
 ---
 
 ## 🛡️ Contato da Guilda
 
-📬 juliastellapaula@gmail.com  
-🏰 [LinkedIn](https://linkedin.com/in/teu_linkedin)  
-📘 [Stack Overflow](https://stackoverflow.com/users/teu_id)  
-🐦 [Twitter](https://twitter.com/)
-
----
-
-<h2 align="center">⭐ Continue explorando: <a href="https://github.com/JuliaStella">github.com/JuliaStella</a> ⭐</h2>
+<p>
+    <a href="mailto:juliastellapaula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/SEU-USUARIO-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/SEU-ID-AQUI"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  </p>
